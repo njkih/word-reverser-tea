@@ -44,3 +44,5 @@ console.log('Word count:', wordCount);
 ## API
 
 ### countWords(text)
+
+<p>Counts the number of words in a given text.</p>
