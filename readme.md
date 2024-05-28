@@ -10,3 +10,11 @@
   <li>Handle multiple languages</li>
   <li>Fast and lightweight</li>
 </ul>
+
+## Installation
+
+<pre>
+<code>
+npm install word-counter-tea
+</code>
+</pre>
