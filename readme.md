@@ -46,3 +46,8 @@ console.log('Word count:', wordCount);
 ### countWords(text)
 
 <p>Counts the number of words in a given text.</p>
+
+<ul>
+  <li><strong>text</strong> (string): The text to count words in.</li>
+  <li><strong>Returns</strong>: The number of words in the text.</li>
+</ul>
