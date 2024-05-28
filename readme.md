@@ -28,3 +28,7 @@ npm install word-counter-tea
 const { countWords } = require('word-counter-tea');
 </code>
 </pre>
+
+### Counting Words
+
+<p>Use the <code>countWords</code> function to count the number of words in a text:</p>
