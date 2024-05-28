@@ -18,3 +18,13 @@
 npm install word-counter-tea
 </code>
 </pre>
+
+## Usage
+
+<p>First, import the <code>countWords</code> function from the library:</p>
+
+<pre>
+<code>
+const { countWords } = require('word-counter-tea');
+</code>
+</pre>
