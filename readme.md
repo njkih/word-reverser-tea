@@ -51,3 +51,15 @@ console.log('Word count:', wordCount);
   <li><strong>text</strong> (string): The text to count words in.</li>
   <li><strong>Returns</strong>: The number of words in the text.</li>
 </ul>
+
+## Example
+
+<pre>
+<code>
+const { countWords } = require('word-counter-tea');
+
+const text = "OpenAI's ChatGPT is an advanced language model.";
+const wordCount = countWords(text);
+console.log('Word count:', wordCount);  // Output: Word count: 7
+</code>
+</pre>
