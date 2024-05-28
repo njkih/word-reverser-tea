@@ -63,3 +63,7 @@ const wordCount = countWords(text);
 console.log('Word count:', wordCount);  // Output: Word count: 7
 </code>
 </pre>
+
+## License
+
+<p>This project is licensed under the MIT License.</p>
